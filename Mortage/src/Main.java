@@ -15,6 +15,8 @@ public class Main {
 
         float rate;
 
+        System.out.println("Добро пожаловать в ипотечный калькулятор! Пожалуйста, ответьте на следующие вопросы:");
+
         System.out.print("Проживаете на Дальнем Востоке?: ");
         String region = scanner.nextLine();
 
